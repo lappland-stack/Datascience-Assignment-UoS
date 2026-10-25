@@ -1,3 +1,11 @@
 Block_ID,Event_Number,People_Infected,Event_Description
 13,1,10,"Infected dollar bills used in a local mall, beginning the spread of the dollar flu"
 14,2,5,Infected individuals from the original infection event go about their day spreading the infection trough airborne particles (i.e. from goughing or sneezing)
+24,3,8,several infected commute on the subway leading to the virus spreading in carriages
+51,4,12,Street market vendors come into contact with infected dollar bills
+3,5,6,The infection spreads through airborne particles at a community family fair with many stalls
+53,6,15,Infected cash passes through a busy ATM area
+22,7,20,Airborne particles spread the infection at a theatre performance with a full audience
+33,8,4,Staff and other patients are exposed to the virus through other infected individuals arriving at a hospital emergency room
+41,9,7,Both infected and uninfected individuals are grouped at an isolation centre causing contamination to fail
+16,10,5,Infected staff carry the virus into a retirement home leading to elderly individuals being exposed
